@@ -2,7 +2,7 @@
 
 A premium, interactive, and responsive personal portfolio website built with vanilla HTML, CSS, and JavaScript.
 
-## 🚀 Features
+## Features
 
 - **Premium Design**: Sleek dark mode aesthetics with glassmorphism and vibrant gradients.
 - **Dynamic Interactivity**:
@@ -12,7 +12,7 @@ A premium, interactive, and responsive personal portfolio website built with van
 - **Fully Responsive**: Optimized for all devices, from desktops to mobile phones.
 - **Fast Performance**: Built with zero dependencies for lightning-fast load times.
 
-## 🛠️ Built With
+## Built With
 
 - **HTML5**: Semantic structure for better SEO and accessibility.
 - **CSS3**: Modern styling including CSS Variables, Grid, Flexbox, and backdrop filters.
@@ -20,7 +20,7 @@ A premium, interactive, and responsive personal portfolio website built with van
 - **Google Fonts**: 'Outfit' for modern typography.
 - **Boxicons**: For clean, scalable iconography.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ├── css/
@@ -31,7 +31,7 @@ A premium, interactive, and responsive personal portfolio website built with van
 └── README.md         # Project documentation
 ```
 
-## 📝 Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
@@ -39,11 +39,11 @@ A premium, interactive, and responsive personal portfolio website built with van
    ```
 2. Open `index.html` in your favorite web browser.
 
-## 👤 Author
+## Author
 
 **Ankit Kumar**
 - GitHub: [@animalmst123-dot](https://github.com/animalmst123-dot)
 - Email: animal.mst123@gmail.com
 
 ---
-Built with ❤️ for a modern web.
+Built for a modern web.
